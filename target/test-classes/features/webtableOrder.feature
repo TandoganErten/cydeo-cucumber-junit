@@ -1,4 +1,4 @@
-@wip3
+@smoke
 Feature: Web table user order feature
 
 
