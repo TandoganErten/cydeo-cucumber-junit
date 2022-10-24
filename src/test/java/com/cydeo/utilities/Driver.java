@@ -48,7 +48,7 @@ private static InheritableThreadLocal<WebDriver> driverPool=new InheritableThrea
                 case "remote-chrome":
                     try {
                         //assign your grid server address
-                        String gridAddress="52.203.95.87";
+                        String gridAddress="3.91.82.193";
                         URL url=new URL("http://"+gridAddress+":4444/wd/hub");
                         DesiredCapabilities desiredCapabilities=new DesiredCapabilities();
                         desiredCapabilities.setBrowserName("chrome");
