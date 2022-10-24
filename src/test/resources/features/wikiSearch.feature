@@ -1,3 +1,4 @@
+@smoke
 Feature: Wikipedia search functionality and its verification
   Agile Story: As a user when i am on Wikipedia page , i should be able to search any word i want and i should be able to see title
 
